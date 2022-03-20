@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'briefcase',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hostaway',
+					link: 'https://dashboard.hostaway.com/v3/calendar/monthly',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Meldung',
+					link: 'https://alloggiatiweb.poliziadistato.it/PortaleAlloggiati/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Astat',
+					link: 'https://www.tic.lts.it/ticweb/index.phtml?TS=3658772BA7C862D74DA5D0CF228417DE&',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Booking',
+					link: 'https://account.booking.com/sign-in?op_token=EgVvYXV0aCKXAQoUNlo3Mm9IT2QzNk5uN3prM3BpcmgSCWF1dGhvcml6ZRoaaHR0cHM6Ly9hZG1pbi5ib29raW5nLmNvbS8qUnsicGFnZSI6Ii9ob3RlbC9ob3RlbGFkbWluL2V4dHJhbmV0X25nL21hbmFnZS9ob21lLmh0bWw_aG90ZWxfaWQ9NzY0MzU2NSZsYW5nPWRlIn1CBGNvZGUqEjCmzrG18LslOgBCAFip9NyRBg',
 				},
 			],
 		},
