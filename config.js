@@ -147,6 +147,10 @@ const CONFIG = {
 					link: 'https://alloggiatiweb.poliziadistato.it/PortaleAlloggiati/',
 				},
 				{
+					name: 'Test',
+					link: 'https://www.tic.lts.it/ticweb/index.phtml?TS=3658772BA7C862D74DA5D0CF228417DE&',
+				},
+				{
 					name: 'Astat',
 					link: 'https://www.tic.lts.it/ticweb/index.phtml?TS=3658772BA7C862D74DA5D0CF228417DE&',
 				},
