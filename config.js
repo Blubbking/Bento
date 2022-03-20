@@ -12,15 +12,15 @@ const CONFIG = {
 
 	// General
 	name: 'Gabriel',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'You should rest',
+	greetingMorning: 'Guatn Morgn,',
+	greetingAfternoon: 'Schian Nomitog,',
+	greetingEvening: 'Schian Obend,',
+	greetingNight: 'Gea liegn,',
 
 	// Layout
 	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'OLAT',
+					link: 'https://lms.uibk.ac.at/dmz/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Amazon',
+					link: 'https://www.amazon.it/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Ebay',
+					link: 'https://www.ebay.it/mys/overview?MyEbay&gbh=1&CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GBH',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'LFU',
+					link: 'https://lfuonline.uibk.ac.at',
 				},
 			],
 		},
@@ -183,46 +183,46 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'bitcoin',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Cryptodotcom',
+					link: 'https://crypto.com/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'YieldApp',
+					link: 'https://app.yield.app/dashboard',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'BlockFi',
+					link: 'https://blockfi.com/',
 				},
 				{
-					name: 'Pocket',
+					name: 'Coinbase',
 					link: 'https://www.pocket.com',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'globe-2',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Google',
+					link: 'https://www.google.de/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Gdrive',
+					link: 'https://drive.google.com/drive/u/0/my-drive',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Gfotos',
+					link: 'https://photos.google.com/',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'Youtube',
+					link: 'https://www.youtube.com/',
 				},
 			],
 		},
